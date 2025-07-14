@@ -26,19 +26,27 @@ Frivia adalah aplikasi berbasis Flutter yang dibuat sebagai proyek pembelajaran 
 
 Dokumentasi lengkap tersedia dalam folder `documentation-app/`, berisi:
 
-- Deskripsi sistem
-- Use case & diagram alur
-- Rancangan UI
-- Penjelasan teknis tiap modul
+- Gambar saat aplikasi dimulai
+- skor akhir
+- ui ketika salah menjawab
+- ui ketika menjawab dengan benar
+- pilihan difficulty dengan slide
+
+## 📷 Tampilan Aplikasi
+
+| Home Page                                        | Final Score                                 | Game Page Correct                                      | Game Page Incorrect                                        |
+| ------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
+| ![main_page](<documentation-app/home(easy).png>) | ![Final](documentation-app/final_score.png) | ![correct](<documentation-app/game_page(correct).png>) | ![incorrect](<documentation-app/game_page(incorrect).png>) |
 
 ---
 
 ## 📦 Cara Menjalankan Proyek
 
-1. **Ekstrak** folder `frivia.zip`.
-2. **Masuk** ke folder proyek:
+1. **Clone** Project ini.
+2. **Paste** dengan "git clone `link cloningnya`"
+3. **Masuk** ke folder proyek:
    ```bash
-   cd frivia
+   cd .
    ```
 
 ## Install dependency:
