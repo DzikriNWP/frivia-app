@@ -1,6 +1,6 @@
 # frivia
 
-Frivia adalah aplikasi berbasis Flutter yang dibuat sebagai proyek pembelajaran dan pengembangan aplikasi mobile interaktif berbasis quiz/trivia. Proyek ini terdiri dari dua bagian utama:
+Frivia adalah aplikasi berbasis Flutter yang dibuat sebagai proyek pembelajaran dan pengembangan aplikasi mobile interaktif berbasis quiz/trivia.
 
 ---
 
@@ -46,7 +46,7 @@ Dokumentasi lengkap tersedia dalam folder `documentation-app/`, berisi:
 2. **Paste** dengan "git clone `link cloningnya`"
 3. **Masuk** ke folder proyek:
    ```bash
-   cd .
+   cd frivia-app
    ```
 
 ## Install dependency:
